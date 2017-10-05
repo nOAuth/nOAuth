@@ -1,0 +1,7 @@
+{
+    "name": "noauth-api",
+    "type": "docker",
+    "alias": [
+        "noauth-api.now.sh"
+    ]
+}
